@@ -1,5 +1,3 @@
-Here's a comprehensive outline of the content you should add to your README.md file for the ShoppyGlobe Backend API. This will ensure your project is well-documented and easy for others (and your future self) to understand and set up.
-
 🚀 ShoppyGlobe Backend API
 Project Overview
 The ShoppyGlobe Backend API is a robust e-commerce backend solution built with Node.js and Express. It provides core functionalities for user authentication, product management, and shopping cart operations, interacting with a MongoDB database.
